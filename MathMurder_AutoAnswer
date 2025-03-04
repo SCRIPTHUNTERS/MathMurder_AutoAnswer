@@ -1,6 +1,5 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+print("Math Murder Auto Answer - loaded successfully!")
+
 local Screen = workspace.Map.Functional.Screen
 local QuestionText = Screen.SurfaceGui.MainFrame.MainGameContainer.MainTxtContainer.QuestionText
 local TypingText = Screen.SurfaceGui.MainFrame.MainGameContainer.MainTxtContainer.TypingText
